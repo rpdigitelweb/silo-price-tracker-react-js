@@ -1,0 +1,109 @@
+:root {
+  --brand-color__primary-0: #639187;
+  --brand-color__primary-2: #11463d;
+  --font-title-1: normal 20px Segoe UI;
+  --font-paragrafo: normal 17px/24px Segoe UI;
+  --font-subtitle-1: 600 17px Segoe UI;
+  --font-subtitle-2: 200 17px Segoe UI;
+  --font-button: 600 17px Segoe UI;
+  --font-legend: normal 17px Segoe UI;
+  --font-destac: 600 2vw Segoe UI;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+.slide img {
+  width: 98%;
+}
+
+/* modal */
+.btnOrcamento {
+  margin-left: 3vw;
+}
+
+.modal fieldset {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px;
+  margin: 12px;
+}
+
+/* newsletter */
+.input {
+  width: 40vw;
+  min-width: 200px;
+}
+
+/* in progress */
+/*banner black friday*/
+.bloco-post {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.post1 {
+  width: 45%;
+}
+
+.post1 img {
+  width: 100%;
+}
+
+.post2 {
+  width: 45%;
+  text-align: center;
+  font-size: 3vh;
+}
+
+@media (max-width: 700px) {
+  .bloco-post {
+    display: block;
+    align-items: center;
+  }
+
+  .post1,
+  .post2 {
+    margin-top: 10px;
+    width: 80%;
+    margin-left: 10%;
+  }
+}
+
+/*destaque produtos*/
+.card {
+  margin: 10px 10px;
+  padding: 0 10px;
+  align-items: center;
+  background-color: var(--brand-color__primary-0);
+  border-radius: 16px;
+  box-shadow: 0 1px 1px 1px rgb(64, 64, 64, 0.5);
+}
+
+.price h2 {
+  color: var(--brand-color__primary-2);
+}
+
+.price-p {
+  text-decoration: line-through;
+}
+
+.legend {
+  font: var(--font-legend);
+}
+
+@media (max-width: 700px) {
+  .price {
+    display: none;
+  }
+
+  .card {
+    flex-basis: 100%;
+  }
+}
