@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29ceb13e.css",
+    "main.js": "/static/js/main.e0b16c25.js",
+    "static/media/black-friday.svg": "/static/media/black-friday.3c79fe33cce376a6193059cf3f69b032.svg",
+    "static/media/kitchen1.png": "/static/media/kitchen1.e326f105c28c624e5abd.png",
+    "static/media/kitchen3.png": "/static/media/kitchen3.cef016d686df66bb6ff4.png",
+    "static/media/kitchen6.png": "/static/media/kitchen6.53ba7fd46bb3f0f150ed.png",
+    "static/media/kitchen4.png": "/static/media/kitchen4.09f7c84d2f4372cf89de.png",
+    "static/media/kitchen2.png": "/static/media/kitchen2.732fef809325e6705981.png",
+    "static/media/kitchen5.png": "/static/media/kitchen5.a7f8d06e20ece8c0030f.png",
+    "static/media/kitchen7.png": "/static/media/kitchen7.a2fa573fb13bcba74c6f.png",
+    "static/media/kit-mesa.svg": "/static/media/kit-mesa.dbf40b7a60db446383e30db3cab2c6d4.svg",
+    "static/media/sala-jantar.svg": "/static/media/sala-jantar.86db8c8afda94240697794fb82066abf.svg",
+    "static/media/cozinha-madesa.svg": "/static/media/cozinha-madesa.463d323941c4826988347aed93569307.svg",
+    "static/media/couch.svg": "/static/media/couch.b480a4367a460b9e4c0b3a7d6d8833ce.svg",
+    "static/media/logotipo.svg": "/static/media/logotipo.298590b2b2912e354c04246805e35636.svg",
+    "static/media/table.svg": "/static/media/table.f60069981a6936c22a78446d783dceab.svg",
+    "static/media/kitchen.svg": "/static/media/kitchen.6c15e00a788a594f521f290d9ef10b96.svg",
+    "static/media/desk.svg": "/static/media/desk.8366d68720c9758d8e272a5c1c617f36.svg",
+    "index.html": "/index.html",
+    "main.29ceb13e.css.map": "/static/css/main.29ceb13e.css.map",
+    "main.e0b16c25.js.map": "/static/js/main.e0b16c25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ceb13e.css",
+    "static/js/main.e0b16c25.js"
+  ]
+}
